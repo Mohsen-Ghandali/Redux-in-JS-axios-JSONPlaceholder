@@ -1,6 +1,6 @@
-//-------npm i redux------------
+//------npm i redux--------------
 //------npm i redux-thunk--------
-//------npm i axios--------
+//------npm i axios--------------
 
 // Import Modules
 const REDUX = require("redux");
