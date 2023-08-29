@@ -1,5 +1,5 @@
 //------npm i redux--------------
-//------npm i redux-thunk--------
+//------npm i redux-thunk --------
 //------npm i axios--------------
 
 // Import Modules
